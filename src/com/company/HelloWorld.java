@@ -30,7 +30,7 @@ public class HelloWorld {
 
         while (maxAusgabe< 100) {
             System.out.println("Hallo Welt " + maxAusgabe);
-            System.out.println("Zweite Ausgabezeile!");
+            System.out.println("Zweite Ausgabezeile");
             maxAusgabe = maxAusgabe + 1;
         }
 
